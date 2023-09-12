@@ -75,20 +75,28 @@ print("RMSE= ",rmse)
 
 ## Output:
 
+## df.haed()
 ![image](https://github.com/vijayarajv1704/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121303741/ba10bcc8-e402-43fb-8651-953ae9cffb77)
 
+## df.tail()
 ![image](https://github.com/vijayarajv1704/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121303741/c7e671bd-083c-4c5a-b677-800524768b86)
 
+## Array value of X
 ![image](https://github.com/vijayarajv1704/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121303741/a5d05272-537b-407a-b4bc-a974e7790639)
 
+## Array value of Y
 ![image](https://github.com/vijayarajv1704/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121303741/109b3fbc-6e8d-4cf2-9861-336f54aaeb73)
 
+## Values of Y prediction and Values of Y prediction
 ![image](https://github.com/vijayarajv1704/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121303741/b65216d2-facf-4eea-856c-7997bf970f65)
 
+## Training Set Graph
 ![image](https://github.com/vijayarajv1704/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121303741/4db02849-530f-4697-ac29-06180776c42c)
 
+## Test Set Graph
 ![image](https://github.com/vijayarajv1704/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121303741/ad20ad37-d4e7-47dc-aa8c-e118cc484ea5)
 
+## Values of MSE, MAE and RMSE
 ![image](https://github.com/vijayarajv1704/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/121303741/976f779b-ed74-435a-acbb-6be83b043dfd)
 
 
